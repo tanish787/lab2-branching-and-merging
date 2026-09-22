@@ -19,61 +19,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0168122519120517" />
-      <entry key="MS500" value="2.589604349740285" />
-      <entry key="S2" value="9.974764522561808" />
-      <entry key="S5" value="21.718462191927337" />
-      <entry key="S10" value="34.843933959785296" />
-      <entry key="S30" value="55.019547320852226" />
-      <entry key="S60" value="65.90513410406416" />
-      <entry key="M2" value="84.41990859793304" />
-      <entry key="M5" value="136.75487214638497" />
-      <entry key="M10" value="216.02123058314268" />
-      <entry key="M15" value="275.33439792191837" />
-      <entry key="M30" value="373.9978105307111" />
-      <entry key="H1" value="447.67704393088934" />
-      <entry key="H2" value="493.23263448257654" />
-      <entry key="H4" value="518.6385152592741" />
-      <entry key="D1" value="541.2968969751103" />
-      <entry key="W1" value="545.3245335735826" />
+      <entry key="MS100" value="1.2705390658196274" />
+      <entry key="MS500" value="4.565241756346991" />
+      <entry key="S2" value="10.396511580493103" />
+      <entry key="S5" value="13.710329219710506" />
+      <entry key="S10" value="15.21837999522119" />
+      <entry key="S30" value="16.69239072007415" />
+      <entry key="S60" value="21.707790424835988" />
+      <entry key="M2" value="40.15272991933271" />
+      <entry key="M5" value="98.66985379766514" />
+      <entry key="M10" value="183.971820307881" />
+      <entry key="M15" value="248.90347804764872" />
+      <entry key="M30" value="360.2408567836281" />
+      <entry key="H1" value="445.87540484802076" />
+      <entry key="H2" value="499.7644316825547" />
+      <entry key="H4" value="530.1053791251973" />
+      <entry key="D1" value="557.3301241557585" />
+      <entry key="W1" value="562.1852891979944" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.0290624686423075E-142" />
-      <entry key="S5" value="3.0240906965623196E-57" />
-      <entry key="S10" value="5.499173298380698E-29" />
-      <entry key="S30" value="3.8027620839319734E-10" />
-      <entry key="S60" value="1.950482527291637E-5" />
-      <entry key="M2" value="0.004480405806345715" />
-      <entry key="M5" value="0.13536155049252468" />
-      <entry key="M10" value="0.48322760128234526" />
-      <entry key="M15" value="0.7614956595654062" />
-      <entry key="M30" value="1.2221797964723466" />
-      <entry key="H1" value="1.5595918459163969" />
-      <entry key="H2" value="1.765027255155066" />
-      <entry key="H4" value="1.8785526345483463" />
-      <entry key="D1" value="1.9791841413079887" />
-      <entry key="W1" value="1.9970119019392165" />
+      <entry key="S2" value="1.481354166150396E-175" />
+      <entry key="S5" value="1.1702093432128735E-70" />
+      <entry key="S10" value="1.0817621472453524E-35" />
+      <entry key="S30" value="2.211620532570989E-12" />
+      <entry key="S60" value="1.487468554156226E-6" />
+      <entry key="M2" value="0.0012372863334905832" />
+      <entry key="M5" value="0.08090147991496383" />
+      <entry key="M10" value="0.3735788712099778" />
+      <entry key="M15" value="0.6414376988143461" />
+      <entry key="M30" value="1.1217049194019801" />
+      <entry key="H1" value="1.494110500784046" />
+      <entry key="H2" value="1.727576537255145" />
+      <entry key="H4" value="1.8585160178221047" />
+      <entry key="D1" value="1.9756500774441712" />
+      <entry key="W1" value="1.996502097756166" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.02124474802770889" />
-      <entry key="MS500" value="1.8886160831410104" />
-      <entry key="S2" value="9.688409629755371" />
-      <entry key="S5" value="21.56731417457892" />
-      <entry key="S10" value="34.7431590396208" />
-      <entry key="S30" value="54.970677657795314" />
-      <entry key="S60" value="65.87673703458795" />
-      <entry key="M2" value="84.40726889059312" />
-      <entry key="M5" value="136.8790884202855" />
-      <entry key="M10" value="216.4950472094536" />
-      <entry key="M15" value="276.0876690150995" />
-      <entry key="M30" value="375.21425788293124" />
-      <entry key="H1" value="449.2331673342767" />
-      <entry key="H2" value="494.9957419663237" />
-      <entry key="H4" value="520.5160563687879" />
-      <entry key="D1" value="543.2759048628927" />
-      <entry key="W1" value="547.3215201019153" />
+      <entry key="MS100" value="1.1841484606475738" />
+      <entry key="MS500" value="4.456085827938788" />
+      <entry key="S2" value="10.324263887328902" />
+      <entry key="S5" value="13.670936972088317" />
+      <entry key="S10" value="15.196278522282793" />
+      <entry key="S30" value="16.684123966506665" />
+      <entry key="S60" value="21.701550953864484" />
+      <entry key="M2" value="40.14718136771504" />
+      <entry key="M5" value="98.7432657484215" />
+      <entry key="M10" value="184.3377086127583" />
+      <entry key="M15" value="249.53771099531423" />
+      <entry key="M30" value="361.35716198691614" />
+      <entry key="H1" value="447.36612324225496" />
+      <entry key="H2" value="501.4900945311437" />
+      <entry key="H4" value="531.9628770797151" />
+      <entry key="D1" value="559.3055954063268" />
+      <entry key="W1" value="564.1817655160343" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -84,27 +84,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.DataTypesTest.largeSumTest.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.DataTypesTest.largeSumTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="DataTypesTest.largeSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab2-branching-and-merging" />
